@@ -12,7 +12,7 @@ class Bank {
 		System.out.println("Total Interst: "+totalInterest);
 		*/
 		
-		String companyName = "Veridic Solutions";
+		String companyName = "Veridic Solutions - St Louis";
 		int size = companyName.length();
 		for(int i = size-1; i>=0; i = i - 1){
 			char c = companyName.charAt(i);
