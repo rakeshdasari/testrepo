@@ -1,0 +1,4 @@
+npx create-react-app@latest 03-facets
+npm install @mui/material @emotion/react @emotion/styled
+npm install @mui/material @mui/styled-engine-sc styled-components
+npm install react-router-dom
